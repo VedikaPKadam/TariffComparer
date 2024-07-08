@@ -41,7 +41,9 @@ dotnet build
 
 ## Usage
 1. Run the application:
-dotnet run --project ElectricityTariffComparer
+dotnet run --project Electricity_Tariff_Comparer
+
+Once the applciation is running, open the browser and navigate to 'http://localhost:7073/swagger/index.html' to access it.
 
 ## Running Tests
 dotnet test
